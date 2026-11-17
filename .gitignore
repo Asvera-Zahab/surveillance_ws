@@ -1,0 +1,12 @@
+build/
+install/
+log/
+__pycache__/
+*.pt
+.env
+flutter_app/build/
+flutter_app/.dart_tool/
+src/DynamixelSDK/
+src/turtlebot3_msgs/
+src/turtlebot3/
+src/turtlebot3_simulations/
